@@ -76,7 +76,7 @@ These are some reviews [:link:](https://deskthority.net/product-news-f44/hhkb-pr
 
 
 ## The travesi UK to Japan
-![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/PD-KD600BN/23-23-08-03-05-2018.png)
+![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/PD-KD600BN/23-23-28-03-05-2018.png)
 
 
 
