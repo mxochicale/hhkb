@@ -50,7 +50,7 @@ writing expressions on stones 2000 years ago (5march2018).
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/chisel-and-stone.png)
 
 ## present
-![image](https://github.com/mxochicale/hhkb/blob/master/keyboar/PD-KD600BN/IMG20180305171551.jpg)
+![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/PD-KD600BN/IMG20180305171551.jpg)
 
 ## future?
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/tumblr_oxomubNEm71w4t58uo1_500.gif)
