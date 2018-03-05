@@ -56,14 +56,27 @@ writing expressions on stones 2000 years ago (5march2018).
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/tumblr_oxomubNEm71w4t58uo1_500.gif)
 
 
-# twetter
+# twitter
+
+* this new primitive task of mine "hitting keys in a blank 
+keypad HHKB keyboard @PFU_HHKB". It feels nice, I specially like 
+this exercise of avoiding looking at the keyboard to the point 
+I would put all my raw thoughts into a machine with a 
+delay of milliseconds (not measured yet)
+
+`https://twitter.com/_mxochicale/status/970799040211365888`
 
 
-* this primitive task of mine of hitting keys in a blank keypad HHKB
-keyboard @PFU_HHKB feels nice, I specially like this exercise 
-of avoiding looking at the keyboard to the point I would put 
-all my raw thoughts into a machine with a delay of milliseconds.
 
+
+# PD-KD600BN
+
+Happy Hacking Keyboard [wikikepdia :link:](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard). [Jananese source](http://www.pfu.fujitsu.com/direct/hhkb/detail_hhkb-pro-bt-nl.html).
+These are some reviews [:link:](https://deskthority.net/product-news-f44/hhkb-professional-bt-bluetooth-t13513.html)
+
+
+## The travesi UK to Japan
+![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/PD-KD600BN/23-23-08-03-05-2018.png)
 
 
 
