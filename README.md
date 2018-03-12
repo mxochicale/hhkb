@@ -14,15 +14,19 @@ using FN+keys to use the arrows.
 
 
 ## General Instructions of usage
-1. Pair keyboard trought bluetooth by typing some 
-2. Select Switches:
-
+1. Pair keyboard trough bluetooth by typing some numbers 
+2. Select Switches:   
 * SW3ON:DEL   
 * SW5ON:o-alt-space-alt-o	
 
 # Keyboard Layout with switch conf
 
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/20171225203648.png)
+
+
+# Keyboard Shortcuts
+
+* Menu Key: shift + FN + 0 (SHIFT+F10). [:link:](https://geekhack.org/index.php?topic=8951.0)
 
 
 
