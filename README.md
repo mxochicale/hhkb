@@ -2,7 +2,9 @@ Happy Hacking Keyboard (HHKB)
 ---
 
 Today, Monday the 5th of March 2018, I have collected my HHKB which comes from JAPAN.
-I have been waiting for this experience for a year and it makes me feel so smoothly.
+I have been waiting for this experience for a year and it makes me feel so smoothly
+(re-reading on 23 march 2018 -- I didn't know what I mean by smoothly I guess I felt
+nice and cool about using such nice gizmo).
 However, but before to start fully enjoying such
 fabulous experiences. I want to put some thoughts about the use of the keyboard.
 
@@ -11,6 +13,26 @@ your old keyboard connected, in case you need to type something that you are
 very familiar with, in my case the keyboard shortcuts are taking me a while to
 get used to them, specially for a blank keypad and with this keyboard layout of 
 using FN+keys to use the arrows.
+
+
+## Bluetooth CSR 4.0 Dongle USB
+
+```
+$ lsusb
+Bus 002 Device 010: ID 0a12:0001 Cambridge Silicon Radio, Ltd Bluetooth Dongle (HCI mode)
+
+```
+Go to bluetooth settings menu and set a new devices, then select HHKB-BT and type
+the numbers and hit enter to pair the the keyboard.
+
+
+* In case of problems with pairing your keyboard with the bluetoth CSR 4.0 dongle,
+I run the following commmands to pair HHKB again  [:link:](https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts)
+
+```
+rfkill block bluetooth
+rfkill unblock bluetooth
+```
 
 
 ## General Instructions of usage
