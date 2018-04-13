@@ -84,10 +84,9 @@ writing expressions on stones 2000 years ago (5march2018).
 
 ## more ...
 
-> Imagine in the future that with everykey that you hit you produce paragraph (book, article, etc.)
-
-![image]()
-
+> Imagine in the future that with everykey that you hit you can produce some nice 
+arrange of words that can help to create better world (e.g. paragraph, book, article, etc.)
+![image](https://github.com/mxochicale/hhkb/blob/master/images/fig_v00.png)
 
 (added:13april2018 1502)
 
