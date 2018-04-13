@@ -82,6 +82,15 @@ writing expressions on stones 2000 years ago (5march2018).
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/tumblr_oxomubNEm71w4t58uo1_500.gif)
 
 
+## more ...
+
+> Imagine in the future that with everykey that you hit you produce paragraph (book, article, etc.)
+
+![image]()
+
+
+(added:13april2018 1502)
+
 # twitter
 
 * this new primitive task of mine "hitting keys in a blank 
