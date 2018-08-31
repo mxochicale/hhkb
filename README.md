@@ -15,7 +15,7 @@ get used to them, specially for a blank keypad and with this keyboard layout of
 using FN+keys to use the arrows.
 
 
-## Bluetooth CSR 4.0 Dongle USB
+## Bluetooth CSR 4.0 Dongle USB on Ubuntu 16.04x64
 
 ```
 $ lsusb
@@ -23,16 +23,9 @@ Bus 002 Device 010: ID 0a12:0001 Cambridge Silicon Radio, Ltd Bluetooth Dongle (
 
 ```
 Go to bluetooth settings menu and set a new devices, then select HHKB-BT and type
-the numbers and hit enter to pair the the keyboard.
+the displayed numbers and hit enter in order to pair the keyboard.
 
 
-* In case of problems with pairing your keyboard with the bluetoth CSR 4.0 dongle,
-I run the following commmands to pair HHKB again  [:link:](https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts)
-
-```
-rfkill block bluetooth
-rfkill unblock bluetooth
-```
 
 
 ## General Instructions of usage
@@ -112,6 +105,14 @@ These are some reviews [:link:](https://deskthority.net/product-news-f44/hhkb-pr
 ## The travesi UK to Japan
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/PD-KD600BN/23-23-28-03-05-2018.png)
 
+
+
+# REVIEWS
+
+
+* The Idiocy of Happy Hacking Keyboard
+By Xah Lee. Date: 2011-06-08. Last updated: 2018-05-23.
+[:link:](http://xahlee.info/kbd/idiocy_of_happy_hacking_keyboard.html)
 
 
 
