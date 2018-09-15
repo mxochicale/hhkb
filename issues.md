@@ -44,3 +44,22 @@ nosucess: Wed 29 Aug 2018
 ```
 
 nosucess: Wed 29 Aug 2018
+
+
+
+
+# try bluetooth firmware for devices and package essentials
+
+
+
+refs:
+
+https://askubuntu.com/questions/1032417/ubuntu-18-04-lts-bluetooth-0cf33004-discovery-not-working
+
+https://askubuntu.com/questions/612399/hp-15-r212nl-ubuntu-14-04-bluetooth-dont-find-device
+
+
+added: Mon Sep  3 12:35:22 BST 2018
+
+
+
