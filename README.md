@@ -5,36 +5,34 @@ Today, Monday the 5th of March 2018, I have collected my HHKB which comes from J
 I have been waiting for this experience for a year and it makes me feel so smoothly
 (re-reading on 23 march 2018 -- I didn't know what I mean by smoothly I guess I felt
 nice and cool about using such nice gizmo).
-However, but before to start fully enjoying such
-fabulous experiences. I want to put some thoughts about the use of the keyboard.
+However, before to start fully enjoying such fabulous experience. 
+I want to put some thoughts about the use of the keyboard.
 
 Well, when connecting your HHKB for the first time, it is suggested that you keep 
-your old keyboard connected, in case you need to type something that you are
-very familiar with, in my case the keyboard shortcuts are taking me a while to
-get used to them, specially for a blank keypad and with this keyboard layout of 
-using FN+keys to use the arrows.
-
-
-## Bluetooth CSR 4.0 Dongle USB on Ubuntu 16.04x64
-
-```
-$ lsusb
-Bus 002 Device 010: ID 0a12:0001 Cambridge Silicon Radio, Ltd Bluetooth Dongle (HCI mode)
-
-```
-Go to bluetooth settings menu and set a new devices, then select HHKB-BT and type
-the displayed numbers and hit enter in order to pair the keyboard.
-
+your old keyboard connected, in case you need to type something that you are not 
+familiar with the new keyboard, in my case the keyboard shortcuts are taking me a 
+while to get used to them, specially for a blank keypad and with this keyboard 
+layout of using FN+keys to use the arrows.
 
 
 
 ## General Instructions of usage
-1. Pair keyboard trough bluetooth by typing some numbers 
-2. Select Switches:   
+
+
+1. Connect Bluetooth dongle
+2. Go to bluetooth settings menu and set a new devices by clicking PLUS 
+3. When connecting for the first time, push to the on/off button varios
+times until appears in the near range devices 
+4. then select HHKB-BT and type
+the displayed numbers and hit enter in order to pair the keyboard.
+(write down some number in a blank sheet and put it under the keyboard
+to type the numbers).
+5. Pair keyboard trough bluetooth by typing some numbers 
+6.. Select Switches:   
 * SW3ON:DEL   
 * SW5ON:o-alt-space-alt-o	
 
-# Keyboard Layout with switch conf
+# Keyboard Layout with switch configuration
 
 ![image](https://github.com/mxochicale/hhkb/blob/master/keyboard/20171225203648.png)
 

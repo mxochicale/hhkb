@@ -2,7 +2,7 @@ Issues
 ---
 
 
-# no paired kb
+# [SORTED] no paired kb
 
 * In case of problems with pairing your keyboard with the bluetoth CSR 4.0 dongle,
 I run the following commmands to pair HHKB again  [:link:](https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts)
@@ -14,7 +14,7 @@ rfkill unblock bluetooth
 
 
 
-# Other issues
+# [SORTED] not paired with new installations
 
 The problem is that ubuntu16.04 has been reinstalled into 
 a machine and then the HHKB would not able to be connected. 
@@ -46,11 +46,21 @@ nosucess: Wed 29 Aug 2018
 nosucess: Wed 29 Aug 2018
 
 
+## SORTED OUT 
+
+When connecting the keyboard first time, 
+one have to push the on/off power button many times
+until appears in the detected devices!
+
+sorted: Sun Sep 23 14:37:24 BST 2018
 
 
-# try bluetooth firmware for devices and package essentials
 
 
+
+
+
+# Other references
 
 refs:
 
